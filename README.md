@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : PROJET GIT - GROUPE_8**
+**projet grp 8 : TP  GIT - ADMIN_8**
 
 Bienvenue dans ce petit TP Git.
 
